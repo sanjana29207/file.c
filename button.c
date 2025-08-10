@@ -6,6 +6,6 @@
 <button type="button onclick="alert('amity university')">click me</button>
 <button type="button onclick="alert('bengalore')">click me</button>
 <button type="button onclick="alert('aset')">click me</button>
-
+<button type="button onclick="alert('branch')">click me</button>
 </body>
 </html>
