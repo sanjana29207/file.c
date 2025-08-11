@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <body>
 <h1> button element </h1>
@@ -10,3 +10,4 @@
 
 </body>
 </html>
+
